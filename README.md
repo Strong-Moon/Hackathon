@@ -112,8 +112,3 @@ The last part is calling our function with its parameters, after that closing Mo
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-github-username/dovecs-property-marketing.git
-
-
-
-
-
