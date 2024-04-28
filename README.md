@@ -85,12 +85,12 @@ def scrape_properties(base_url, collection):
 ```
 The main problem was the move to other pages. Thanks to this function this problem is solved after many trials.
 
-The last part is calling our function with its parameters, after that closing MongoDB connection after scraping.
 ```python
 scrape_properties(base_sale_url, collection_sale)
 scrape_properties(base_rent_url, collection_rent)
 client.close()
 ```
+The last part is calling our function with its parameters, after that closing MongoDB connection after scraping.
 
 ### SMS Notifications
 - MongoDB setup to retrieve and manage customer and property data.
