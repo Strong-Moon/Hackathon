@@ -1,0 +1,418 @@
+[
+    {
+        "Title": "La Casalia Grand St\u00fcdyo",
+        "Price": "204.000    \u00a3",
+        "Closed Area": "50m2",
+        "Bedrooms": "1",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "La Casalia 1+1 Deluxe",
+        "Price": "204.000    \u00a3",
+        "Closed Area": "65m2",
+        "Bedrooms": "1",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "La Casalia 2+1 Deluxe",
+        "Price": "204.000    \u00a3",
+        "Closed Area": "93m2",
+        "Bedrooms": "2",
+        "Bath/Wc": "2",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "La Casalia 2+1 Villa",
+        "Price": "204.000    \u00a3",
+        "Closed Area": "94m2",
+        "Bedrooms": "2",
+        "Bath/Wc": "2",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "La Casalia 3+1 Loft",
+        "Price": "204.000    \u00a3",
+        "Closed Area": "128m2",
+        "Bedrooms": "3",
+        "Bath/Wc": "3",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "La Casalia 3+1 Villa",
+        "Price": "204.000    \u00a3",
+        "Closed Area": "166m2",
+        "Bedrooms": "3",
+        "Bath/Wc": "3",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "Querencia For Sale 4+1 Duplex B-C-D Block",
+        "Price": "718.000    \u00a3",
+        "Closed Area": "219m2",
+        "Bedrooms": "4",
+        "Bath/Wc": "3",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "Querencia For Sale 5+1 Duplex B-C-D Block",
+        "Price": "840.000    \u00a3",
+        "Closed Area": "443m2",
+        "Bedrooms": "5",
+        "Bath/Wc": "4",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "La Isla Villas 2+1 Duplex Flat For Sale",
+        "Price": "250.000    \u00a3",
+        "Closed Area": "95m2",
+        "Bedrooms": "2",
+        "Bath/Wc": "2",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "4+1 Villa For Sale in Natulux",
+        "Price": "2.270.000    \u00a3",
+        "Closed Area": "316m2",
+        "Bedrooms": "4",
+        "Bath/Wc": "4",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "3+1 For Sale In Natulux",
+        "Price": "478.000    \u00a3",
+        "Closed Area": "134m2",
+        "Bedrooms": "3",
+        "Bath/Wc": "2",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "2+1 Duplex Flat for sale in Natulux",
+        "Price": "270.000    \u00a3",
+        "Closed Area": "85m2",
+        "Bedrooms": "2",
+        "Bath/Wc": "2",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "1+1 Flat for sale in Natulux",
+        "Price": "201.000    \u00a3",
+        "Closed Area": "60m2",
+        "Bedrooms": "1",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "3+1 Flat for sale In Courtyard Platinum",
+        "Price": "332.000    \u00a3",
+        "Closed Area": "145m2",
+        "Bedrooms": "3",
+        "Bath/Wc": "2",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "2+1 Flat for Sale In Courtyard Platinum",
+        "Price": "219.000    \u00a3",
+        "Closed Area": "90m2",
+        "Bedrooms": "2",
+        "Bath/Wc": "2",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "1+1 Duplex Flat for sale in Courtyard Platinum",
+        "Price": "167.000    \u00a3",
+        "Closed Area": "55m2",
+        "Bedrooms": "1",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "1+1 Flat for sale in Courtyard Platinum",
+        "Price": "176.000    \u00a3",
+        "Closed Area": "81m2",
+        "Bedrooms": "1",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "Studio flat for sale in Courtyard Platinum",
+        "Price": "123.000    \u00a3",
+        "Closed Area": "48m2",
+        "Bedrooms": "1",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "Penthouse for Sale in Querencia 4+1 Flat B-C Block",
+        "Price": "967.000    \u00a3",
+        "Closed Area": "413m2",
+        "Bedrooms": "4",
+        "Bath/Wc": "3",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "3+1 Flat for Sale in Querencia Block B-C-D",
+        "Price": "323.000    \u00a3",
+        "Closed Area": "156m2",
+        "Bedrooms": "3",
+        "Bath/Wc": "3",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "2+1 Flat for Sale in Querencia Block B-C-D",
+        "Price": "254.000    \u00a3",
+        "Closed Area": "115m2",
+        "Bedrooms": "2",
+        "Bath/Wc": "2",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "1+1 Flat for Sale in Querencia Block B-C-D",
+        "Price": "211.000    \u00a3",
+        "Closed Area": "73m2",
+        "Bedrooms": "1",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "Studio Flat for Sale in Querencia Block B-C-D",
+        "Price": "N/A",
+        "Closed Area": "37m2",
+        "Bedrooms": "1",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "2+1 Flat for Sale in Querencia Block A",
+        "Price": "356.000    \u00a3",
+        "Closed Area": "128m2",
+        "Bedrooms": "2",
+        "Bath/Wc": "2",
+        "Item Status": "Furnished"
+    },
+    {
+        "Title": "1+1 Flat for Sale in Querencia Block A",
+        "Price": "N/A",
+        "Closed Area": "81m2",
+        "Bedrooms": "1",
+        "Bath/Wc": "1",
+        "Item Status": "Furnished"
+    },
+    {
+        "Title": "Studio Flat for Sale in Querencia Block A",
+        "Price": "N/A",
+        "Closed Area": "43m2",
+        "Bedrooms": "1",
+        "Bath/Wc": "1",
+        "Item Status": "Furnished"
+    },
+    {
+        "Title": "Four Seasons Life II 2+1 Flat For Sale Sea Swan",
+        "Price": "260.000    \u00a3",
+        "Closed Area": "80m2",
+        "Bedrooms": "2",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "Four Seasons Life II 2+1 Flat For Sale Sea Star",
+        "Price": "N/A",
+        "Closed Area": "75m2",
+        "Bedrooms": "2",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "La Isla Villas 4+1 Villa For Sale",
+        "Price": "N/A",
+        "Closed Area": "217m2",
+        "Bedrooms": "4",
+        "Bath/Wc": "4",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "La Isla Villas 5+1 Villa For Sale",
+        "Price": "N/A",
+        "Closed Area": "270m2",
+        "Bedrooms": "5",
+        "Bath/Wc": "4",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "Four Seasons Life II 1+1 Flat For Sale Sea Storm",
+        "Price": "N/A",
+        "Closed Area": "54m2",
+        "Bedrooms": "1",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "Long Beach Panorama 1+1 Flat For Sale",
+        "Price": "N/A",
+        "Closed Area": "75m2",
+        "Bedrooms": "1",
+        "Bath/Wc": "1",
+        "Item Status": "White Furniture Included"
+    },
+    {
+        "Title": "Long Beach Panorama 2+1 Flat For Sale",
+        "Price": "N/A",
+        "Closed Area": "91m2",
+        "Bedrooms": "2",
+        "Bath/Wc": "1",
+        "Item Status": "White Furniture Included"
+    },
+    {
+        "Title": "Four Seasons Life II 1+1 Flat For Sale Sea Gulf",
+        "Price": "N/A",
+        "Closed Area": "53m2",
+        "Bedrooms": "1",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "Sky Sakarya 1+1 Flat for Sale",
+        "Price": "N/A",
+        "Closed Area": "72m2",
+        "Bedrooms": "1",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "Sky Sakarya 2+1 Flat for Sale",
+        "Price": "N/A",
+        "Closed Area": "93m2",
+        "Bedrooms": "2",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "La Isla Villas 3+1 Villa For Sale",
+        "Price": "N/A",
+        "Closed Area": "176m2",
+        "Bedrooms": "3",
+        "Bath/Wc": "3",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "La Isla Villas 3+1 Flat For Sale",
+        "Price": "N/A",
+        "Closed Area": "130m2",
+        "Bedrooms": "3",
+        "Bath/Wc": "2",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "Cyprus \u0130skele Four Seasons Life Villa For Sale Sea Gate",
+        "Price": "N/A",
+        "Closed Area": "205m2",
+        "Bedrooms": "3",
+        "Bath/Wc": "2",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "Cyprus \u0130skele Four Seasons Life Villa For Sale Sea Pearl",
+        "Price": "N/A",
+        "Closed Area": "215m2",
+        "Bedrooms": "3",
+        "Bath/Wc": "2",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "Cyprus Iskele Four Seasons Life Villa For Sale Sea Shell",
+        "Price": "N/A",
+        "Closed Area": "165m2",
+        "Bedrooms": "2",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "2+1 Holiday Homes for Sale in Iskele Long Beach, North Cyprus",
+        "Price": "N/A",
+        "Closed Area": "120m2",
+        "Bedrooms": "2",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "1+1 Holiday Homes in North Cyprus Long Beach",
+        "Price": "N/A",
+        "Closed Area": "70m2",
+        "Bedrooms": "1",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "Long Beach Panorama Studio Flat",
+        "Price": "N/A",
+        "Closed Area": "43m2",
+        "Bedrooms": "0",
+        "Bath/Wc": "1",
+        "Item Status": "White Furniture Included"
+    },
+    {
+        "Title": "Long Beach Panorama 3+1 Flat For Sale",
+        "Price": "N/A",
+        "Closed Area": "136m2",
+        "Bedrooms": "3",
+        "Bath/Wc": "2",
+        "Item Status": "White Furniture Included"
+    },
+    {
+        "Title": "Long Beach Panorama 4+1 Duplex For Sale",
+        "Price": "N/A",
+        "Closed Area": "227m2",
+        "Bedrooms": "5",
+        "Bath/Wc": "4",
+        "Item Status": "White Furniture Included"
+    },
+    {
+        "Title": "Sky Sakarya 3+1 Flat For Sale",
+        "Price": "N/A",
+        "Closed Area": "155m2",
+        "Bedrooms": "3",
+        "Bath/Wc": "2",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "Sky Sakarya Studio Flat for Sale",
+        "Price": "N/A",
+        "Closed Area": "53m2",
+        "Bedrooms": "1",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "Courtyard Long Beach Studio Flat",
+        "Price": "N/A",
+        "Closed Area": "46m2",
+        "Bedrooms": "1",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "Four Seasons Life 1+1 Flat for Sale",
+        "Price": "N/A",
+        "Closed Area": "50m2",
+        "Bedrooms": "1",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "Four Seasons Life 2+1 Flat for Sale",
+        "Price": "N/A",
+        "Closed Area": "122m2",
+        "Bedrooms": "2",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    },
+    {
+        "Title": "Four Seasons Life Studio Flat for Sale",
+        "Price": "N/A",
+        "Closed Area": "37m2",
+        "Bedrooms": "1",
+        "Bath/Wc": "1",
+        "Item Status": "Unfurnished"
+    }
+]
