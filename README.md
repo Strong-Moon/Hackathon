@@ -16,9 +16,9 @@ The solution focuses on leveraging automation, data analysis, and personalized c
 - **Database Management**: Utilizes MongoDB for efficient data storage and retrieval.
 - **SMS Notifications**: Sends targeted property details to potential customers via SMS, expanding the marketing reach.
 
-## Implementation
+# Implementation
 
-### Web Scraping
+## Web Scraping
 - Libraries used: `json`, `requests`, `BeautifulSoup`
 - Connects to MongoDB and retrieves house information from specified URLs.
   ```bash
@@ -28,7 +28,7 @@ The solution focuses on leveraging automation, data analysis, and personalized c
   base_sale_url = "https://dovecconstruction.com/en/property-for-sale/"
   base_rent_url = "https://dovecconstruction.com/en/property-for-rent/"
   
-## Code Snippets
+### Code Snippets
 
 Below is a shortened example of the `extract_house_info` function used for scraping and storing house details from HTML content into MongoDB:
 
@@ -66,6 +66,8 @@ def extract_house_info(html, collection):
 
         # Inserting into MongoDB
         collection.insert_one(house_info)
+
+```
 
 
 ### SMS Notifications
