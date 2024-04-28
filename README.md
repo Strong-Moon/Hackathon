@@ -68,7 +68,22 @@ def extract_house_info(html, collection):
         collection.insert_one(house_info)
 
 ```
+For the scrapping of the properties `scrape_properties` function was used. The first parameter is our base urls that we provided in the first and the second parameter takes our collections names that are located int the database.
 
+```python
+def scrape_properties(base_url, collection):
+    page_number = 1
+    while True:
+        page_url = f"{base_url}{page_number}/"
+        response = requests.get(page_url)
+        if response.status_code == 200:
+            html_content = response.content
+            extract_house_info(html_content, collection)
+            page_number += 1
+        else:
+            break
+```
+The main problem was the move to other pages. Thanks to this function this problem is solved after many trials.
 
 ### SMS Notifications
 - MongoDB setup to retrieve and manage customer and property data.
