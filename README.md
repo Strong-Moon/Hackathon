@@ -1,6 +1,7 @@
 # Dovecs Property Marketing Solution
 
 This project is developed by Group 8 as part of the 2023-2024 hackathon in TRNC Famagusta. It features an AI-driven chatbot integrated with Dovecs' website to enhance customer interactions and improve property marketing strategies.
+https://github.com/Strong-Moon/Hackathon/assets/110940123/c27e97ea-6141-46bd-9530-c556d71bb054
 
 ## Team Members
 - Berkay Pehlivan
@@ -109,5 +110,4 @@ The last part is calling our function with its parameters, after that closing Mo
 
 
 
-https://github.com/Strong-Moon/Hackathon/assets/110940123/c27e97ea-6141-46bd-9530-c556d71bb054
 
